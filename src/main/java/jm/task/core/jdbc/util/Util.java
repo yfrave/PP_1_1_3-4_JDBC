@@ -5,7 +5,7 @@ import java.sql.*;
 public class Util {
     private static final String URL = "jdbc:mysql://localhost:3306/usersdb";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "Rt56g399jop888";
+    private static final String PASSWORD = "root";
     Connection connection1;
 
     public static Connection getConnection() {
